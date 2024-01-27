@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @r-gg
-- 👀 I’m interested in Software Engineering, Data Science and Machine Learning
+- 👀 I’m interested in Software Engineering, Distributed / Cloud Computing and Machine Learning
 - 🌱 I’m currently studying at TU Wien (Master: Software Engineering and Internet Computing)
