@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @r-gg
-- 👀 I’m interested in Software Engineering, Distributed / Cloud Computing and Machine Learning
-- 🌱 I’m currently studying at TU Wien (Master: Software Engineering and Internet Computing)
+- 🌱 Interested in Software Engineering, Cloud Computing and Machine Learning
+- 📚 TU Wien Graduate (Master: Software Engineering and Internet Computing)
+- 💻 Working as a GenAI Software Engineer @ HitachiRail.
