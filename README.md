@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @r-gg
 - 🌱 Interested in Software Engineering, Cloud Computing and Machine Learning
 - 📚 TU Wien Graduate (Master: Software Engineering and Internet Computing)
-- 💻 Working as a GenAI Software Engineer @ HitachiRail.
+- 💻 Working as a Cloud Platform Engineer @ HitachiRail.
